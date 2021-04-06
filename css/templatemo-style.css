@@ -122,6 +122,9 @@ p:last-child { margin-bottom: 0; }
 }
 
 .tm-banner-header { color: white; }
+.tm-banner-header h1{
+    font-family: sans-serif;
+}
 .tm-banner-overlay {
     z-index: 1;
     height: 100%;
